@@ -1,6 +1,6 @@
+.idea
 .DS_Store
-*/.DS_Store
-
-node_modules
-
+.sass-cache
 _site
+node_modules
+_drafts
