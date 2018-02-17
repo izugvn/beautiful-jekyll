@@ -26,6 +26,9 @@ RSS: false
 # Permalink
 # See: https://github.com/kaeyleo/jekyll-theme-H2O/issues/35
 permalink: /:title.html
+<<<<<<< HEAD
+>>>>>>> 4d0cf225cce8a7aa9b07320fbd0f993b248b9a2c
+=======
 >>>>>>> 4d0cf225cce8a7aa9b07320fbd0f993b248b9a2c
 
 # Plugins
